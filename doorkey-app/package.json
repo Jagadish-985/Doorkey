@@ -20,13 +20,7 @@
   "@mui/icons-material": "^7.3.1",
   "@mui/material": "^7.2.0",
   "@mui/icons-material/ArrowBackIos": "^7.3.1",
-  "@mui/icons-material/ArrowForwardIos": "^7.3.1",
-  "@mui/icons-material/Close": "^7.3.1",
-  "@mui/icons-material/KeyboardArrowDown": "^7.3.1",
-  "@mui/icons-material/KeyboardArrowUp": "^7.3.1",
-  "@mui/icons-material/MoreVert": "^7.3.1",
-  "@mui/icons-material/Settings": "^7.3.1",
-  "@mui/icons-material/Share": "^7.3.1"
+  "@mui/icons-material/ArrowForwardIos": "^7.3.1"
   },
   "devDependencies": {
     "@eslint/js": "^9.30.1",
