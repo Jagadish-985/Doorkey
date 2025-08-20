@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "dependencies": {
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.1",
@@ -7,35 +6,3 @@
     "@mui/material": "^7.2.0"
   }
 }
-=======
-  "name": "doorkey-app",
-  "private": true,
-  "version": "0.0.0",
-  "homepage": "https://jagadish-985.github.io/doorkey",
-  "type": "module",
-  "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "lint": "eslint .",
-    "preview": "vite preview",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
-  },
-  "dependencies": {
-    "react": "^19.1.0",
-    "react-dom": "^19.1.0"
-  },
-  "devDependencies": {
-    "@eslint/js": "^9.30.1",
-    "@types/react": "^19.1.8",
-    "@types/react-dom": "^19.1.6",
-    "@vitejs/plugin-react": "^4.6.0",
-    "eslint": "^9.30.1",
-    "eslint-plugin-react-hooks": "^5.2.0",
-    "eslint-plugin-react-refresh": "^0.4.20",
-    "gh-pages": "^6.1.1",
-    "globals": "^16.3.0",
-    "vite": "^7.0.4"
-  }
-}
->>>>>>> 7f9fe27a66655549a2a0a3c03bd929cec5d9b89d
