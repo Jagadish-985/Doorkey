@@ -2,7 +2,7 @@
   "name": "doorkey-app",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://jagadish-985.github.io/Doorkey/",
+
   "type": "module",
   "scripts": {
     "dev": "vite",
